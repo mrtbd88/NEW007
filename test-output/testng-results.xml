@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-06-29T22:01:36 EDT" name="Default suite" finished-at="2020-06-29T22:01:59 EDT" duration-ms="22774">
+    <groups>
+    </groups>
+    <test started-at="2020-06-29T22:01:36 EDT" name="Default test" finished-at="2020-06-29T22:01:59 EDT" duration-ms="22774">
+      <class name="june30PraBAMTS.DragandDrop">
+        <test-method is-config="true" signature="oprnBrowser()[pri:0, instance:june30PraBAMTS.DragandDrop@13c10b87]" started-at="2020-06-29T22:01:36 EDT" name="oprnBrowser" finished-at="2020-06-29T22:01:46 EDT" duration-ms="9833" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oprnBrowser -->
+        <test-method signature="AccTest()[pri:1, instance:june30PraBAMTS.DragandDrop@13c10b87]" started-at="2020-06-29T22:01:46 EDT" name="AccTest" finished-at="2020-06-29T22:01:46 EDT" duration-ms="63" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AccTest -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:june30PraBAMTS.DragandDrop@13c10b87]" started-at="2020-06-29T22:01:46 EDT" name="closebrowser" finished-at="2020-06-29T22:01:46 EDT" duration-ms="114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="oprnBrowser()[pri:0, instance:june30PraBAMTS.DragandDrop@13c10b87]" started-at="2020-06-29T22:01:46 EDT" name="oprnBrowser" finished-at="2020-06-29T22:01:55 EDT" duration-ms="8989" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oprnBrowser -->
+        <test-method signature="dragAnddrop()[pri:2, instance:june30PraBAMTS.DragandDrop@13c10b87]" started-at="2020-06-29T22:01:55 EDT" name="dragAnddrop" finished-at="2020-06-29T22:01:59 EDT" duration-ms="3619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dragAnddrop -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:june30PraBAMTS.DragandDrop@13c10b87]" started-at="2020-06-29T22:01:59 EDT" name="closebrowser" finished-at="2020-06-29T22:01:59 EDT" duration-ms="95" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- june30PraBAMTS.DragandDrop -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
